@@ -29,7 +29,7 @@ Technologies Used
 Installation and Setup  
 
 - Clone the repository using  
-git clone https://github.com/Jensima/Hirex.git
+git clone https://github.com/arvind280605/Hirex.git
 
 - Navigate to the project folder  
 cd Hirex
